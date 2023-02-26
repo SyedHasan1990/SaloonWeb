@@ -359,7 +359,7 @@ textarea {
 
 button,
 select {
-    text-transform: none
+    text-transform: uppercase
 }
 
 [role="button"] {
